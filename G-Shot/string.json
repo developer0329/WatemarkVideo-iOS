@@ -1,0 +1,10 @@
+{
+    "app_name" :"GreenShot",
+    "username" : "מספר גלריה",
+    "password" : "מספר אבטחה",
+    "error" : "רישום לא הצליח",
+    "picture_title" : "GreenShot-Image",
+    "picture_description" : "Description",
+    "downloading_watermarks" : "מוריד גלופות…",
+    "saving_images" : "שומר תמונות…"
+}
